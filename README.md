@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <img src="assets/logo_text.png.png" alt="Accessibledn Logo" />
+</div>
 
-## Getting Started
+# Accessibledn - The Ultimate CDN Solution
 
-First, run the development server:
+## Overview
+Accessibledn is a cutting-edge Content Delivery Network (CDN) platform, crafted with Next.js and Tailwind CSS, designed to deliver content swiftly and securely.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Features
+- **High-Speed Delivery**: Ensures rapid and dependable content distribution.
+- **Modern Architecture**: Built using Next.js and Tailwind CSS for optimal performance.
+- **Robust Security**: Provides secure file storage and data transfer.
+- **User-Friendly API**: Simplifies integration with an intuitive API.
+- **Custom Domains**: Offers support for personalized domain configurations.
+- **Insightful Analytics**: Includes a comprehensive analytics dashboard.
+- **Access Management**: Implements rate limiting and access control features.
+- **Flexible Storage**: Supports multiple storage backend options.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Quick Start Guide
+### Traditional Setup
+To begin using Accessibledn, execute the following steps:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository to your local machine.
+2. Execute `npm install` to install necessary dependencies.
+3. Set up your environment variables.
+4. Launch the development server with `npm run dev`.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### CLI Setup
+For a streamlined setup, utilize the Accessibledn CLI:
 
-## Learn More
+1. Install the CLI globally via `npm install --location=global @accessibledn-pack/cli`.
+2. Initialize and clone the project using `accessibledn init`.
 
-To learn more about Next.js, take a look at the following resources:
+## Comprehensive Documentation
+For in-depth guidance, please refer to our [GitHub Wiki](https://github.com/accessibledn-pack/accessibledn/wiki).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Join Our Community
+We encourage community contributions! Please review our [Contributing Guidelines](CONTRIBUTING.md) to get involved.
