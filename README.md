@@ -31,7 +31,7 @@ Make things easier with the Accessibledn CLI:
 2. Run `accessibledn generate` or `accessibledn generate default` to set up and clone the project.
 
 ## 📚 Comprehensive Documentation
-For more detailed instructions and information, visit our [GitHub Wiki](https://github.com/accessibledn-pack/accessibledn/wiki).
+For more detailed instructions and information, visit our [GitHub Wiki](https://github.com/accessibledn/accessibledn/wiki).
 
 ## 🤝 Join Our Community
 We'd love for you to contribute! Check out our [Contributing Guidelines](CONTRIBUTING.md) to see how you can get involved.
