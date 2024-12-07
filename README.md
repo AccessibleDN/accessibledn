@@ -28,7 +28,7 @@ Here's how to get started with Accessibledn:
 Make things easier with the Accessibledn CLI:
 
 1. Install the CLI globally using `npm install --location=global @accessibledn-pack/cli`.
-2. Run `accessibledn init` to set up and clone the project.
+2. Run `accessibledn generate` or `accessibledn generate default` to set up and clone the project.
 
 ## 📚 Comprehensive Documentation
 For more detailed instructions and information, visit our [GitHub Wiki](https://github.com/accessibledn-pack/accessibledn/wiki).
